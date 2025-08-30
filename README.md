@@ -72,4 +72,4 @@ Screenshots of plots are available in the `screenshots-2/` folder.
 * Add more visualizations like humidity trends, wind speed analysis, or combined metrics.
 * Interactive dashboards using Plotly or Dash for better user experience.
 
-linkeldn video explanation:
+linkeldn video explanation:https://www.linkedin.com/posts/bandipavani_dataanalytics-datavisualization-codealpha-activity-7367583009190952960-YoOz?utm_source=share&utm_medium=member_android&rcm=ACoAAEwtrCUB3b9VXvJ8Jt-Aq4hehxqL8bMBJRw
